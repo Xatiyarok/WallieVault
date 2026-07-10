@@ -1,2 +1,11 @@
+# Estado local de Obsidian
 .obsidian/workspace.json
 .obsidian/workspace-mobile.json
+
+# Archivos locales de macOS
+.DS_Store
+
+# Archivos temporales
+*.tmp
+*.swp
+*~
