@@ -13,7 +13,7 @@
 
 ### Architecture Decisions
 
-- Oracle VPN will be replaced by Tailscale
+- Oracle VPN was replaced by Tailscale
 - LLM workloads removed from Raspberry Pi
 - Obsidian selected as knowledge platform
 - Markdown selected as canonical storage format
