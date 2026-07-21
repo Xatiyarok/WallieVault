@@ -11,4 +11,11 @@
     
     nano index.js
 
-##D
+## Deploy function
+
+Cloud Run functions are event driven, meaning a trigger type must be specified. When deploying a new function, `--trigger-topic`, `--trigger-bucket`, or `--trigger-http` are common trigger events. When deploying an update to an existing function, the function keeps the existing trigger unless otherwise specified.
+
+## Test function
+
+## View logs
+
