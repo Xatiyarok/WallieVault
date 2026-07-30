@@ -9,3 +9,8 @@ Universidades aliadas (investigar planes de maestria / PhD)
 - Northern Arizona University
 
 Aprender lenguaje SPICE, reforzar conceptos de electronica, campos magneticos. Preparar base para investigacion en el campo y participar en concursos con el tema
+
+Plan de estudio:
+- 1 video de LTSpice
+- 1 video de KiCAD integrando SPICE | Altium
+- Clase de Gcloud
