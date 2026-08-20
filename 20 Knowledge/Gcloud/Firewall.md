@@ -1,3 +1,4 @@
+
 student-03-45c6481fd90c@test-vm:~$ gcloud compute firewall-rules list
 ERROR: (gcloud.compute.firewall-rules.list) Some requests did not succeed:
  - Request had insufficient authentication scopes.

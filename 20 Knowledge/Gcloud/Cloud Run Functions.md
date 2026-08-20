@@ -1,3 +1,4 @@
+
 ## Initials settings
 1. In Cloud Shell, run the following command to set the default region:
     

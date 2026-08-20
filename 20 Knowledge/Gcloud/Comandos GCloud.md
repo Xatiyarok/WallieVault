@@ -1,3 +1,4 @@
+
 # Configurar región
 gcloud config set compute/region europe-west1
 

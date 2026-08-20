@@ -1,3 +1,4 @@
+
 gcloud compute networks create managementnet --project=qwiklabs-gcp-01-5e1d954f1258 --subnet-mode=custom --bgp-routing-mode=regional --bgp-best-path-selection-mode=legacy 
 
 gcloud compute networks subnets create managementsubnet-1 --project=qwiklabs-gcp-01-5e1d954f1258 --range=10.130.0.0/20 --stack-type=IPV4_ONLY --network=managementnet --region=us-east1
