@@ -1,0 +1,1 @@
+It quantifies the amplifier’s sensitivity to power supply changes. Ideally, the power supply rejection ratio should be infinite, which means power supply changes do not affect the output. Typical specifications for a power supply rejection ratio of an amplifier range from 60 dB to 100 dB.

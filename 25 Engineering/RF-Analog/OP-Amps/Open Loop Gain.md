@@ -1,0 +1,1 @@
+Gain is obtained when no [[Feedback]] is used in the circuit. Open-loop gain A=Vout/Ve, where Ve=Vin+-(Vin-), is the difference between the voltage signals applied at its two input terminals
